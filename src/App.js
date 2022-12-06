@@ -83,25 +83,3 @@ export default App;
 
 
 
-
-
-// import React, { useState } from 'react'
-
-// export default function App() {
-// 	const [swap , setSwap] = useState(true);
-
-// 	function swapColor(){
-// 		setSwap(!swap)
-// 	}
-//   return (
-// 	<>
-// 	<div style={ swap ? {"backgroundColor":"black"} : {"backgroundColor":"blue"}}>
-// hi
-// 	</div>
-// 	<button onClick={swapColor}>Swap</button>
-// 	<div style={ swap ? {"backgroundColor":"blue"} : {"backgroundColor":"black"} }>
-//       hello
-// 	</div>
-// 	</>
-//   )
-// }
