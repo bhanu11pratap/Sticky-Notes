@@ -1,3 +1,22 @@
+# Sticky-Notes
+
+This is a Sticky-Notes application that you can use to make short notes 
+
+# Features :
+
+ * Make short notes for your day or week
+ * Delete , Search and Toggle functionality
+ * Responsive (i.e.: UI is adaptive to all screen size )
+ 
+ # Tech Stack :  
+ 
+ * REACT JS
+ * REACT ICONS
+ 
+ # Description : 
+ 
+ Plan your day or week using this sticky-note application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
